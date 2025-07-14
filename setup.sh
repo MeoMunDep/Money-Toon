@@ -35,7 +35,6 @@ create_default_configs() {
 {
   "limit": 100,
   "countdown": 300,
-  "country_time": "en-US",
   "isDoTasks": false,
   "delayEachAccount": [1, 1],
   "isPlayingGames": true,

@@ -43,7 +43,6 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 {
   "limit": 100,
   "countdown": 300,
-  "country_time": "en-US",
   "isDoTasks": false,
   "delayEachAccount": [1, 1],
   "isPlayingGames": true,
@@ -90,6 +89,6 @@ socks5://user:pass@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd "money-toon-main/money-toon"; node meomundep`
+> To run the bot, use the following command: `cd "money-toon"; node meomundep`
 
 🎇Enjoy!
